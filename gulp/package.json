@@ -1,5 +1,5 @@
 {
-  "name": "Foundation",
+  "name": "fd-gulp-starter",
   "version": "0.0.1",
   "description": "Foundation base with Gulp",
   "main": "gulpfile.js",
